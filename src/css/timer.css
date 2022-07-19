@@ -1,0 +1,35 @@
+.input__wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+#datetime-picker {
+  color: rgb(26, 23, 24);
+  margin-right: 10px;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.input__btn {
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  font-size: 20px;
+  color: blue;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+}
+
+.field {
+  margin-right: 10px;
+}
+
+.value {
+  font-size: 35px;
+}
